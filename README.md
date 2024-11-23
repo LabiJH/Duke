@@ -3,7 +3,7 @@ Duke is a quick Windows Process scanner that will tell you all the currently run
 
 ## 📝Description
 
-Duke is a command-line interface (CLI) tool that utilizes the Windows API to read and retrieve the Process Identifier (PID) of any application you want to modify. Whether you need to close an application, manipulate its memory, or perform other tasks that require a handle,
+Duke is a command-line interface (CLI) tool that utilizes the Windows API to read and retrieve the Process Identifier (PID) of any application you want to modify. Whether you need to close an application, manipulate its memory, or perform other tasks that require a handle, you can just let Duke run and retrieve it for you.
 
 ## 🖼️ Preview Image
 ![duke preview image](https://github.com/user-attachments/assets/e427bb01-7955-472e-a705-0f5743e21924)
